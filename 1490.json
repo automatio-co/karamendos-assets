@@ -1,0 +1,73 @@
+{
+    "name": "Karamendos #1491",
+    "symbol": "KARAMENDOS",
+    "description": "Karamendos is an upcoming NFT project on the Solana Blockchain that will act as the funding arm of Automatio while yielding various benefits to holders.",
+    "seller_fee_basis_points": 540,
+    "external_url": "https://karamendos.com",
+    "image": "1490.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Vanilla"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tattooed In White"
+        },
+        {
+            "trait_type": "Head top left",
+            "value": "Cocoa Skin"
+        },
+        {
+            "trait_type": "Head bottom right",
+            "value": "Vanilla Skin"
+        },
+        {
+            "trait_type": "Head bottom left",
+            "value": "Vanilla Skin"
+        },
+        {
+            "trait_type": "Head top right",
+            "value": "Cocoa Skin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pink Buns"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Perfect Teeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Heart Eyes"
+        },
+        {
+            "trait_type": "Details",
+            "value": "None"
+        }
+    ],
+    "collection": {
+        "name": "Karamendos",
+        "family": "Karamendos"
+    },
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "1490.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "A9i3yEASmQr4NUzQQtVv3vfmUNn939QvYhUar9fcyCb7",
+                "share": 90
+            },
+            {
+                "address": "3PB3jRGmhav8MP9GEgpnWM1ngZiRC8bQZyY4mPLXxjei",
+                "share": 10
+            }
+        ]
+    }
+}
